@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Shreeraj Mane",
+  name: "Kamlesh Ayare",
   handle: "@theshreeraj",
   role: "AI Product Manager",
   location: "Pune, India",

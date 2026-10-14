@@ -16,7 +16,7 @@ export default function About() {
           <div className="mx-auto max-w-lg">
 
             <h1 className="mt-6 text-md font-semibold tracking-tight md:text-md">
-              Hi, I'm Shreeraj
+              Hi, I'm Kamlesh
             </h1>
 
             <div className="mt-4 space-y-4 text-left text-sm leading-relaxed text-muted">
